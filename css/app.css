@@ -593,6 +593,9 @@ details summary::before {
 .i-gitee:before {
   content: "\e607";
 }
+.i-linkedin:before {
+  content: "\f08c";
+}
 /* modern-normalize v2.0.0 | MIT License | https://github.com/sindresorhus/modern-normalize */
 *,
 ::before,
@@ -2964,10 +2967,10 @@ use.stop-animation {
   color: 00aff;
 }
 .social .item.linkedin::before {
-  background-color: 0077B;
+  background-color: 0077B5;
 }
 .social .item.linkedin i {
-  color: 0077B;
+  color: 0077B5;
 }
 .social .item.email::before {
   background-color: D4463;

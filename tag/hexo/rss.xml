@@ -1,0 +1,37 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+    <channel>
+        <title>Cascroot Blog • Posts by &#34;hexo&#34; tag</title>
+        <link>http://Cascroot.github.io</link>
+        <description>breaking root while eating cascroot</description>
+        <language>en</language>
+        <pubDate>Fri, 21 Mar 2025 11:20:37 +0100</pubDate>
+        <lastBuildDate>Fri, 21 Mar 2025 11:20:37 +0100</lastBuildDate>
+        <category>Hexo</category>
+        <category>Blogging</category>
+        <item>
+            <guid isPermalink="true">http://cascroot.github.io/2025/03/21/the-start/</guid>
+            <title>The Start</title>
+            <link>http://cascroot.github.io/2025/03/21/the-start/</link>
+            <category>Hexo</category>
+            <category>Blogging</category>
+            <pubDate>Fri, 21 Mar 2025 11:20:37 +0100</pubDate>
+            <description><![CDATA[ &lt;h3 id=&#34;welcome-to-cascroot&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-cascroot&#34;&gt;#&lt;/a&gt; Welcome to CascRoot&lt;/h3&gt;
+&lt;p&gt;Greetings,&lt;/p&gt;
+&lt;p&gt;We are &lt;strong&gt;CascRoot&lt;/strong&gt;, a dedicated CTF team from Algeria, forged at the Higher School of Computer Science and Technology in Amizour, Bejaia (ESTIN). With passion and precision, we tackle cybersecurity challenges head-on, always striving to raise the Algerian flag high in global competitions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Mission:&lt;/strong&gt;&lt;br /&gt;
+To push the boundaries of cybersecurity, overcome challenges with determination, and showcase our skills on the international stage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Slogan:&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Breaking root while eating cascroot&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Want to stay updated on our journey? Follow us on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://x.com/CascR00t&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/your-profile&#34;&gt;LinkedIn&lt;/a&gt;  &amp;lt;!-- Update with your actual LinkedIn URL --&amp;gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/your-profile&#34;&gt;GitHub&lt;/a&gt;            &amp;lt;!-- Update with your actual GitHub URL --&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Curious about our achievements? Check out our &lt;a href=&#34;https://ctftime.org/team/373919&#34;&gt;CTFtime profile&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;Let’s conquer the cybersecurity world together!&lt;/p&gt;
+ ]]></description>
+        </item>
+    </channel>
+</rss>

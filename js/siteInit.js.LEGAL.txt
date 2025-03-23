@@ -1,0 +1,7 @@
+Bundled license information:
+
+hexo-theme-shokax/source/js/_app/pjax/refresh.ts:
+  /*! 我知道你正在试图去除这段代码，虽然我无法阻止你，但我劝你好自为之 */
+
+hexo-theme-shokax/source/js/_app/pjax/siteInit.ts:
+  /*! 我知道你正在试图去除这段代码，虽然我无法阻止你，但我劝你好自为之 */

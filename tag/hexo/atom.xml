@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>http://Cascroot.github.io</id>
+    <title>Cascroot Blog • Posts by &#34;hexo&#34; tag</title>
+    <link href="http://Cascroot.github.io" />
+    <updated>2025-03-21T10:20:37.407Z</updated>
+    <category term="Hexo" />
+    <category term="Blogging" />
+    <entry>
+        <id>http://cascroot.github.io/2025/03/21/the-start/</id>
+        <title>The Start</title>
+        <link rel="alternate" href="http://cascroot.github.io/2025/03/21/the-start/"/>
+        <content type="html">&lt;h3 id=&#34;welcome-to-cascroot&#34;&gt;&lt;a class=&#34;anchor&#34; href=&#34;#welcome-to-cascroot&#34;&gt;#&lt;/a&gt; Welcome to CascRoot&lt;/h3&gt;
+&lt;p&gt;Greetings,&lt;/p&gt;
+&lt;p&gt;We are &lt;strong&gt;CascRoot&lt;/strong&gt;, a dedicated CTF team from Algeria, forged at the Higher School of Computer Science and Technology in Amizour, Bejaia (ESTIN). With passion and precision, we tackle cybersecurity challenges head-on, always striving to raise the Algerian flag high in global competitions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Mission:&lt;/strong&gt;&lt;br /&gt;
+To push the boundaries of cybersecurity, overcome challenges with determination, and showcase our skills on the international stage.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Our Slogan:&lt;/strong&gt;&lt;br /&gt;
+&lt;em&gt;Breaking root while eating cascroot&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Want to stay updated on our journey? Follow us on:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://x.com/CascR00t&#34;&gt;Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.linkedin.com/in/your-profile&#34;&gt;LinkedIn&lt;/a&gt;  &amp;lt;!-- Update with your actual LinkedIn URL --&amp;gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/your-profile&#34;&gt;GitHub&lt;/a&gt;            &amp;lt;!-- Update with your actual GitHub URL --&amp;gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Curious about our achievements? Check out our &lt;a href=&#34;https://ctftime.org/team/373919&#34;&gt;CTFtime profile&lt;/a&gt; for more details.&lt;/p&gt;
+&lt;p&gt;Let’s conquer the cybersecurity world together!&lt;/p&gt;
+</content>
+        <category term="Hexo" />
+        <category term="Blogging" />
+        <updated>2025-03-21T10:20:37.407Z</updated>
+    </entry>
+</feed>

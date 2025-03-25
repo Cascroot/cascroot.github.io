@@ -1,5 +1,18 @@
 Bundled license information:
 
+@unlazy/core/dist/shared/core.URvayf9Q.mjs:
+  /**
+   * Encodes an RGBA image to a PNG data URI. RGB should not be premultiplied by A.
+   *
+   * @remarks
+   * This is optimized for speed and simplicity and does not optimize for size
+   * at all. This does not do any compression (all values are stored uncompressed).
+   *
+   * @see https://github.com/evanw/thumbhash
+   * @author Evan Wallace
+   * @license MIT
+   */
+
 hexo-theme-shokax/source/js/_app/pjax/refresh.ts:
   /*! 我知道你正在试图去除这段代码，虽然我无法阻止你，但我劝你好自为之 */
 
